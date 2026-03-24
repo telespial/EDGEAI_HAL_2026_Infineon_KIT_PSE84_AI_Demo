@@ -49,3 +49,7 @@ Observed output indicates non-ideal blue channel behavior in current pin mapping
 - Swipe direction (`up` vs `down`) is still hardware/orientation sensitive and requires additional per-board tuning.
 - Captured sessions showed intermittent `SWIPE_UP` dominance for both physical up/down motions.
 - This is documented and tracked in [TODO.md](TODO.md) under immediate tuning tasks.
+
+## Current Status
+Detailed build/runtime status and known gesture issues are tracked in:
+- `PROJECT_STATUS_2026-03-24.md`
